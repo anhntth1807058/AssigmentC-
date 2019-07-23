@@ -1,0 +1,11 @@
+C:\Users\Win\RiderProjects\Banking\Banking\bin\Debug\netcoreapp2.2\Banking.deps.json
+C:\Users\Win\RiderProjects\Banking\Banking\bin\Debug\netcoreapp2.2\Banking.runtimeconfig.json
+C:\Users\Win\RiderProjects\Banking\Banking\bin\Debug\netcoreapp2.2\Banking.runtimeconfig.dev.json
+C:\Users\Win\RiderProjects\Banking\Banking\bin\Debug\netcoreapp2.2\Banking.dll
+C:\Users\Win\RiderProjects\Banking\Banking\bin\Debug\netcoreapp2.2\Banking.pdb
+C:\Users\Win\RiderProjects\Banking\Banking\obj\Debug\netcoreapp2.2\Banking.csprojAssemblyReference.cache
+C:\Users\Win\RiderProjects\Banking\Banking\obj\Debug\netcoreapp2.2\Banking.csproj.CoreCompileInputs.cache
+C:\Users\Win\RiderProjects\Banking\Banking\obj\Debug\netcoreapp2.2\Banking.AssemblyInfoInputs.cache
+C:\Users\Win\RiderProjects\Banking\Banking\obj\Debug\netcoreapp2.2\Banking.AssemblyInfo.cs
+C:\Users\Win\RiderProjects\Banking\Banking\obj\Debug\netcoreapp2.2\Banking.dll
+C:\Users\Win\RiderProjects\Banking\Banking\obj\Debug\netcoreapp2.2\Banking.pdb
